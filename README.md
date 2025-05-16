@@ -6,7 +6,7 @@
         <h2>Puzzle Chosen: Butterflies</h2> 
         <h2>Assembled Puzzle</h2>
         <div class="puzzle-container">
-            <!-- 4x4 grid of 16 pieces + 1 faulty piece -->
+            <!-- 4x4 grid of 16 pieces + 1 Fake piece -->
             <img src="images/butterfly/1" alt="Puzzle Piece 1" class="puzzle-piece">
             <img src="images/butterfly-piece-2.jpg" alt="Puzzle Piece 2" class="puzzle-piece">
             <img src="images/butterfly-piece-3.jpg" alt="Puzzle Piece 3" class="puzzle-piece">
@@ -23,7 +23,7 @@
             <img src="images/butterfly-piece-14.jpg" alt="Puzzle Piece 14" class="puzzle-piece">
             <img src="images/butterfly-piece-15.jpg" alt="Puzzle Piece 15" class="puzzle-piece">
             <img src="images/butterfly-piece-16.jpg" alt="Puzzle Piece 16" class="puzzle-piece">
-            <img src="images/butterfly-piece-faulty.jpg" alt="Faulty Piece" class="puzzle-piece faulty-piece">
+            <img src="images/butterfly-piece-faulty.jpg" alt="Fake Piece" class="puzzle-piece Fake-piece">
         </div>
 
         <h2>Flex Container Properties Used</h2>
